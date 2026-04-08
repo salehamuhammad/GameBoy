@@ -19,5 +19,6 @@
 
 ## Tech Stack
 - Language: C++
+- Graphics Library: SFML 
 - Paradigm: Object-Oriented Programming (OOP)
-- Interface: Console-based
+- Interface: Graphical (SFML window)
