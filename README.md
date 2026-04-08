@@ -14,8 +14,8 @@
 
 ### Hangman
 - Classic word-reveal gameplay
-- ASCII art visuals for each stage
-- Category-based word bank
+- Classic word-reveal gameplay
+- Graphical visuals rendered via SFML
 
 ## Tech Stack
 - Language: C++
